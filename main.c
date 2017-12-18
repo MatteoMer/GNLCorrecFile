@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <fcntl.h>
 
+/* WARNING: TEST NORMINETTE FIRST AND CREATE A FILE NAMED 'empty.gnl' WITH 'touch empty.gnl' */
+
 int                main()
 {
 	int					fd0;
