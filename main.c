@@ -2,7 +2,10 @@
 #include <stdio.h>
 #include <fcntl.h>
 
-/* WARNING: TEST NORMINETTE FIRST AND CREATE A FILE NAMED 'empty.gnl' WITH 'touch empty.gnl' */
+/* 
+** WARNING: TEST NORMINETTE FIRST AND CREATE A FILE NAMED 'empty.gnl' WITH 'touch empty.gnl'
+** DON'T FORGET TO CHANGE THE BUFF_SIZE INSIDE THE .H
+*/
 
 int                main()
 {
